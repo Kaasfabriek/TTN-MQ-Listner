@@ -15,7 +15,7 @@ You will get a clear idea about how everything is connected and communicating wi
 - `npm install`
 
 ## Config
-Place your own node credentials keys, current are borrowed from @ericCom
+Place your own node credentials keys, current are borrowed from https://github.com/ErwinCom.
 - appEUI (example: `70B3D54ED300157B`)
 - accessKey (example `DTiL3gk0tsbaxho64xIcouJHeoyyBVYERzCTlJygPOU=`)
 
