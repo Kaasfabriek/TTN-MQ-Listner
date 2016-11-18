@@ -1,5 +1,5 @@
 # The Things Network - Nodejs listner
-This is a small program where you can quickly setup a nodejs express server that listnes to your connected device to The Things Network (TTN).
+This is a small program where you can quickly setup a nodejs express server that listen to a connected device to The Things Network (TTN).
 
 TTN has a Nodejs client library https://www.npmjs.com/package/ttn what we will using.
 
