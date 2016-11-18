@@ -19,7 +19,7 @@ Place your own node credentials keys, current are borrowed from https://github.c
 - appEUI (example: `70B3D54ED300157B`)
 - accessKey (example `DTiL3gk0tsbaxho64xIcouJHeoyyBVYERzCTlJygPOU=`)
 
-## Starting up app
+## Fire up
 Just type `npm start` and let the logging begin.
 
 ## Toubleshooting
