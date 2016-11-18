@@ -16,8 +16,12 @@ You will get a clear idea about how everything is connected and communicating wi
 
 ## Installation
 
-- Git clone this repo
-- Make sure npm is installed
-- Run `npm install`
+- `git clone https://github.com/Kaasfabriek/TTN-Nodejs-Single-Node-Listner.git`
+- `cd TTN-Nodejs-Single-Node-Listner`
+- `npm install`
 
-Now you can just `npm start` and let the logging begin.
+## Starting up app
+Just type `npm start` and let the logging begin.
+
+## Toubleshooting
+Drop a line if you can't figure out how to get this running. Also without recieving data the console stays empty, good to know. Check on the TTN side is everything works.
